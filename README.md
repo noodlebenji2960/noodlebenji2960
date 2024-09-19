@@ -1,6 +1,9 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben!
+<a href="">English</a> | <a href="">Spanish</a>
+##
 
-I’m a UX/UI Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but also work beautifully.
+
+I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noodlebenji2960)
 
