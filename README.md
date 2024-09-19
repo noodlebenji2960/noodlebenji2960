@@ -3,7 +3,7 @@
 ##
 
 
-I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. <a href="https://github.com/noodlebenji2960/noodlebenji2960/edit/main/README.md#-get-in-touch">You can reach me here."
+I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. <a href="#-get-in-touch">You can reach me here."
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noodlebenji2960)
 
