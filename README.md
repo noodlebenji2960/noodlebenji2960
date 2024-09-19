@@ -1,4 +1,4 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hello, I’m [Your Name]!
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben!
 
 Welcome to my GitHub profile! I’m a UX/UI Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but also work beautifully.
 
