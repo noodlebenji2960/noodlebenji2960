@@ -1,5 +1,5 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> ¡Hola, soy Ben!
-<a href="https://github.com/noodlebenji2960">Inglés</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Español</a>
+<a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Español</a>
 ##
 
 Soy un desarrollador web fullstack apasionado por crear experiencias de usuario intuitivas y atractivas. Combino diseño con desarrollo para construir interfaces fluidas que no solo se ven bien, sino que también funcionan.
