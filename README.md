@@ -1,5 +1,4 @@
-## Hi there,</br>
-I'm Ben. 👋
+## Hi there, I'm Ben. 👋
 
 - 💬 Ask me about fullstack web development...
 - 🌱 I want to learn PHP & Python...
