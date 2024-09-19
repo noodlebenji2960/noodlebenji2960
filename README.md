@@ -4,4 +4,6 @@
 - 🌱 I want to learn PHP & Python...
 - 👯 I’m looking to collaborate on open source projects...
 
-- 📫 How to reach me: info@benjaminchick.com
+- 📫 How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+info@benjaminchick.com
