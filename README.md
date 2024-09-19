@@ -21,7 +21,7 @@ Design is about solving problems and creating experiences that are both function
 <a href="www.benjaminchick.com">
     <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=for-the-badge" alt="Portfolio">
 </a>
-<a href="mailto:your-email">
+<a href="mailto:info@benjaminchick.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=for-the-badge" alt="Email">
 </a>
 
