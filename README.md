@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on open source projects...
 
 - 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
 info@benjaminchick.com
