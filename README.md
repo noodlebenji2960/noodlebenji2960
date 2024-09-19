@@ -20,17 +20,6 @@ I’m a fullstack web Developer passionate about creating intuitive and engaging
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"> Design Philosophy
 Design is about solving problems and creating experiences that are both functional and delightful. I’m dedicated to a user-first approach, focusing on empathy and real-world solutions.
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
-<a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
-</a>
-<a href="www.benjaminchick.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=for-the-badge" alt="Portfolio">
-</a>
-<a href="mailto:info@benjaminchick.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=for-the-badge" alt="Email">
-</a>
-
 ## 📌 Pinned Projects
 
 ### [Project One](https://github.com/your-username/project-one)
@@ -80,4 +69,13 @@ Happy coding! 🎨💻
 
 ---
 
-![Profile Banner](link-to-your-banner-image)
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
+<a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+</a>
+<a href="www.benjaminchick.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=for-the-badge" alt="Portfolio">
+</a>
+<a href="mailto:info@benjaminchick.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=for-the-badge" alt="Email">
+</a>
