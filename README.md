@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I’m a UX/UI Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but also work beautifully.
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noodlebenji2960&layout=compact)
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UX Design:** User research, wireframing, prototyping, and usability testing.
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
