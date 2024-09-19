@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile! I’m a UX/UI Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but also work beautifully.
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture> What I Do
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UX Design:** User research, wireframing, prototyping, and usability testing.
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
 - **Front-End Development:** Building responsive web applications with HTML, CSS, JavaScript, React, and more.
@@ -16,9 +15,15 @@ Welcome to my GitHub profile! I’m a UX/UI Developer passionate about creating 
 Design is about solving problems and creating experiences that are both functional and delightful. I’m dedicated to a user-first approach, focusing on empathy and real-world solutions.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=flat-square)](your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=flat-square)](mailto:your-email)
+<a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+</a>
+<a href="www.benjaminchick.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=for-the-badge" alt="Portfolio">
+</a>
+<a href="mailto:your-email">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=for-the-badge" alt="Email">
+</a>
 
 ## 📌 Pinned Projects
 
