@@ -5,6 +5,6 @@
 
 - 📫 How to reach me: ...
 
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)
-![Public Repos](https://img.shields.io/github/repos/YOUR_GITHUB_USERNAME?style=flat-square)
-![Total Contributions](https://img.shields.io/badge/total_contributions-150-brightgreen)
+![Followers](https://img.shields.io/github/followers/noodlebenji2960?style=social)
+![Public Repos](https://img.shields.io/github/repos/noodlebenji2960?style=flat-square)
+![Total Contributions](https://img.shields.io/badge/noodlebenji2960-150-brightgreen)
