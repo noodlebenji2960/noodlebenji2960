@@ -6,5 +6,6 @@
 
 - 📫 How to reach me:</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-chick-87b348302)</br>
-[![Email](https://img.shields.io/badge/info@benjaminchick.com-blue?logo=gmail&logoColor=white)](mailto:info@benjaminchick.com): mailto:info@benjaminchick.com
+<a href="mailto:info@benjaminchick.com">info@benjaminchick.com</a>
+
 
