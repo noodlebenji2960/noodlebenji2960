@@ -96,7 +96,11 @@ I work with a variety of tools and languages to bring my ideas to life:
 2. [Frontend Focus](https://frontendfoc.us/) - Weekly updates on front-end development.
 3. [CSS-Tricks Newsletter](https://css-tricks.com/newsletter/) - Regular updates from the CSS-Tricks community.
 
-### YouTube
+### Recommended to Watch
+<a href="">
+<img src="https://en.wikipedia.org/wiki/Helvetica_(film)#/media/File:Helvetica-film.JPG" width="50" height="50">
+</a>
+
 [![YouTube Channel](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s40)](https://www.youtube.com/@t3dotgg)
 [![ChromeDevs](https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s40)](https://www.youtube.com/@ChromeDevs)
 [![CS50](https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s40)](https://www.youtube.com/@cs50)
