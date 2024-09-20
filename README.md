@@ -41,10 +41,11 @@ I work with a variety of tools and languages to bring my ideas to life:
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"> Design Philosophy
 Design is about solving problems and creating experiences that are both functional and delightful. I’m dedicated to a user-first approach, focusing on empathy and real-world solutions.
 
-### Recommended Design Books
-- <img src="https://upload.wikimedia.org/wikipedia/en/1/10/Don%27t_Make_Me_Think.jpg" alt="Don’t Make Me Think" width="50" height="75"> **"Don’t Make Me Think" by Steve Krug**: A practical guide to web usability.
-- <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> **"Smile in the Mind" by Beryl McAlhone and David Stuart**: A collection of witty design ideas.
-- <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> **"The End of Print" by David Carson**: A seminal work on graphic design and typography.
+| Cover Image                                                                 | Title                           | Author                       | Description                                       |
+|-----------------------------------------------------------------------------|---------------------------------|------------------------------|---------------------------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/en/1/10/Don%27t_Make_Me_Think.jpg" alt="Don’t Make Me Think" width="50" height="75"> | "Don’t Make Me Think"          | Steve Krug                  | A practical guide to web usability.               |
+| <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> | "Smile in the Mind"            | Beryl McAlhone and David Stuart | A collection of witty design ideas.               |
+| <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
 
 Happy coding! 🎨💻
 
