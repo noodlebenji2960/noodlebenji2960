@@ -3,7 +3,7 @@
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben!
 
-I’m a web Developer mainly working with MERN tech stacks. I'm passionate about creating intuitive and engaging user experiences. I build fullstack interfaces that not only look great but just work. </br></br><a href="https://www.benjaminchick.com/#/projects?lng=en">Check out some of my work.</a> | <a href="#-get-in-touch">Get in contact.</a></br>
+I’m a web developer mainly working with MERN tech stacks. I'm passionate about creating intuitive and engaging user experiences. I build fullstack interfaces that not only look great but just work. </br></br><a href="https://www.benjaminchick.com/#/projects?lng=en">Check out some of my work.</a> | <a href="#-get-in-touch">Get in contact.</a></br>
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
 - **Front-End Development:** Designing & implementing responsive web applications with HTML, CSS, JavaScript, React, and more.
