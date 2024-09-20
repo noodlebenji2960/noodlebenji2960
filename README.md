@@ -98,7 +98,6 @@ I work with a variety of tools and languages to bring my ideas to life:
 
 ### YouTube
 [![YouTube Channel](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s40)](https://www.youtube.com/@t3dotgg)
-[![bycloudAI](https://yt3.googleusercontent.com/dFUSZtKPu6JO5I9YCJxUlORiS_Fi3xP0gYnWFGYrPiVR2HBlb-VA-Sem3oVhzzembGRjrjbi_44=s40)](https://www.youtube.com/@bycloudAI)
 [![ChromeDevs](https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s40)](https://www.youtube.com/@ChromeDevs)
 [![CS50](https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s40)](https://www.youtube.com/@cs50)
 [![Fireship](https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s40)](https://www.youtube.com/@Fireship)
