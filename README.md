@@ -13,11 +13,11 @@ I’m a web developer mainly working with MERN tech stacks. I'm passionate about
 
 ## 📌 Pinned Projects
 
-| Project | Image | Tech used |
-|---------|-------|-----------|
-| <a href="https://noodlebenji2960.github.io/Xampl-site/"><b>Xample</b><a/></br>Example layout using typescript, react, HTML, CSS. | ![Xample](./Screenshot%20from%202024-09-20%2021-15-21.png) | | 
-| <a href="https://github.com/username/project2"><b>Project2</b><a/></br>A brief description of what this project2 does. | ![Project 2](https://via.placeholder.com/100) | | 
-| <a href="https://github.com/username/project3"><b>Project3</b><a/></br>A brief description of what this project3 does. | ![Project 3](https://via.placeholder.com/100) | | 
+| Project | Image |
+|---------|-------|
+| <a href="https://noodlebenji2960.github.io/Xampl-site/"><b>Xample</b><a/></br>Example Homepage using typescript, react, HTML, CSS. | ![Xample](./Screenshot%20from%202024-09-20%2021-15-21.png) | |
+| <a href="https://https://www.gballotments.org/"><b>Great Barton Allotments SPA.</b><a/></br>Great Barton Allotments SPA javascript, react, HTML, CSS. | ![GB Allotments](./Screenshot%20from%202024-09-20%2021-21-21.png) | |
+| <a href="https://github.com/username/project3"><b>Project3</b><a/></br>A brief description of what this project3 does. | ![Project 3](https://via.placeholder.com/100) | |
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> Current Projects
 - Creating cohesive corporate designs.
