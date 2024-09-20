@@ -1,6 +1,8 @@
+<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="150" height="150" >
 <a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a>
-<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" >
+
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben!
+
 I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. </br></br><a href="#-get-in-touch">Check out some of my work.</a> | <a href="#-get-in-touch">Get in contact.</a></br>
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
@@ -60,16 +62,6 @@ I work with a variety of tools and languages to bring my ideas to life:
     <img src="https://img.shields.io/badge/MongoDB-Certification-green?style=for-the-badge" alt="MongoDB Certification">
 </a>
 
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"> Design Philosophy
-Design is about solving problems and creating experiences that are both functional and delightful. I’m dedicated to a user-first approach, focusing on empathy and real-world solutions.
-
-| Cover Image                                                                 | Title                           | Author                       | Description                                       |
-|-----------------------------------------------------------------------------|---------------------------------|------------------------------|---------------------------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/en/1/10/Don%27t_Make_Me_Think.jpg" alt="Don’t Make Me Think" width="50" height="75"> | "Don’t Make Me Think"          | Steve Krug                  | A practical guide to web usability.               |
-| <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> | "Smile in the Mind"            | Beryl McAlhone and David Stuart | A collection of witty design ideas.               |
-| <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
-
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> Resources
 
 ### Learning Platforms
@@ -117,6 +109,13 @@ Design is about solving problems and creating experiences that are both function
 [![WebDevSimplified](https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s40)](https://www.youtube.com/@WebDevSimplified)
 [![WesBos](https://yt3.googleusercontent.com/ZaIWJVIs2-XoPCTqQjbulMg9XVeXg0xU5DjnqmZsD7FGaRDywHpjWl9UfnIBVKDVDyOkdXvIzQ=s40)](https://www.youtube.com/@WesBos)
 [![Syntax FM](https://yt3.googleusercontent.com/85DOdKox2vjV-IN5a_gnqr4OHZZBmPvFKv9tS3nWA_V2UGIacZ2_nuTlYzsf82y5eN14QNBEAA=s40)](https://www.youtube.com/@syntaxfm)
+
+### Recommended Reading
+| Cover Image                                                                 | Title                           | Author                       | Description                                       |
+|-----------------------------------------------------------------------------|---------------------------------|------------------------------|---------------------------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/en/1/10/Don%27t_Make_Me_Think.jpg" alt="Don’t Make Me Think" width="50" height="75"> | "Don’t Make Me Think"          | Steve Krug                  | A practical guide to web usability.               |
+| <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> | "Smile in the Mind"            | Beryl McAlhone and David Stuart | A collection of witty design ideas.               |
+| <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
 <a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
