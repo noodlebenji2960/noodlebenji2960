@@ -1,5 +1,6 @@
+<a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a>
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben! 
-<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" ></br></br>Language: <a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a></br></br>I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. </br></br><a href="#-get-in-touch">Check out some of my work.</a> | <a href="#-get-in-touch">Get in contact.</a></br>
+<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" ></br></br>I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. </br></br><a href="#-get-in-touch">Check out some of my work.</a> | <a href="#-get-in-touch">Get in contact.</a></br>
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
 - **Front-End Development:** Designing & implementing responsive web applications with HTML, CSS, JavaScript, React, and more.
@@ -33,6 +34,25 @@ I work with a variety of tools and languages to bring my ideas to life:
 | 📊 Data Visualization | [![Leaflet](https://img.shields.io/badge/-Leaflet-28A745?logo=leaflet&logoColor=white)](https://leafletjs.com/) [![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white)](https://d3js.org/) [![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)](https://threejs.org/) [![Chart.js](https://img.shields.io/badge/-Chart.js-F1E05A?logo=chart.js&logoColor=white)](https://www.chartjs.org/) [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) [![RxJS](https://img.shields.io/badge/-RxJS-0288D1?logo=rxjs&logoColor=white)](https://rxjs.dev/) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/) [![Apollo](https://img.shields.io/badge/-Apollo-311C87?logo=apollo&logoColor=white)](https://www.apollographql.com/) |
 | 🗄 Content Management | [![Strapi](https://img.shields.io/badge/-Strapi-2F2D36?logo=strapi&logoColor=white)](https://strapi.io/) [![Sanity](https://img.shields.io/badge/-Sanity-FF6F00?logo=sanity&logoColor=white)](https://www.sanity.io/) [![Contentful](https://img.shields.io/badge/-Contentful-255F6B?logo=contentful&logoColor=white)](https://www.contentful.com/) [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/) [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/) |
 
+## Certifications
+
+<a href="https://www.hackerrank.com/certificates/45177807c639">
+    <img src="https://img.shields.io/badge/JavaScript-HackerRank-lime?style=for-the-badge" alt="HackerRank JavaScript Certification">
+</a>
+<a href="https://www.hackerrank.com/certificates/805ba4ed35a6">
+    <img src="https://img.shields.io/badge/CSS-HackerRank-lime?style=for-the-badge" alt="HackerRank CSS Certification">
+</a>
+<a href="https://www.hackerrank.com/certificates/951c42b573af">
+    <img src="https://img.shields.io/badge/React-HackerRank-lime?style=for-the-badge" alt="HackerRank React Certification">
+</a>
+<a href="https://www.hackerrank.com/certificates/c19a7570011e">
+    <img src="https://img.shields.io/badge/Node.js-HackerRank-lime?style=for-the-badge" alt="HackerRank Node.js Certification">
+</a>
+<br/>
+<a href="https://learn.mongodb.com/c/pTIw_JmXQ9u0gWo33XHLKA">
+    <img src="https://img.shields.io/badge/MongoDB-Certification-green?style=for-the-badge" alt="MongoDB Certification">
+</a>
+
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32"> Design Philosophy
 Design is about solving problems and creating experiences that are both functional and delightful. I’m dedicated to a user-first approach, focusing on empathy and real-world solutions.
@@ -44,12 +64,30 @@ Design is about solving problems and creating experiences that are both function
 | <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
 
 ## Resources
-[![YouTube Channel](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@t3dotgg)[![bycloudAI](https://yt3.googleusercontent.com/dFUSZtKPu6JO5I9YCJxUlORiS_Fi3xP0gYnWFGYrPiVR2HBlb-VA-Sem3oVhzzembGRjrjbi_44=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@bycloudAI)[![ChromeDevs](https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ChromeDevs)[![CS50](https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@cs50)[![Fireship](https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@Fireship)[![freeCodeCamp](https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@freecodecamp)[![Google Search Central](https://yt3.googleusercontent.com/ytc/AIdro_kNi1YP-cTH8YczYvWsYSPuEHInk-FEjsq7WbJIQ3KDBMg=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@GoogleSearchCentral)[![MongoDB](https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@MongoDB)[![The Coding Train](https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TheCodingTrain)[![WebDevSimplified](https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@WebDevSimplified)[![WesBos](https://yt3.googleusercontent.com/ZaIWJVIs2-XoPCTqQjbulMg9XVeXg0xU5DjnqmZsD7FGaRDywHpjWl9UfnIBVKDVDyOkdXvIzQ=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@WesBos)
 
+### YouTube
+[![YouTube Channel](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s40)](https://www.youtube.com/@t3dotgg)
+[![bycloudAI](https://yt3.googleusercontent.com/dFUSZtKPu6JO5I9YCJxUlORiS_Fi3xP0gYnWFGYrPiVR2HBlb-VA-Sem3oVhzzembGRjrjbi_44=s40)](https://www.youtube.com/@bycloudAI)
+[![ChromeDevs](https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s40)](https://www.youtube.com/@ChromeDevs)
+[![CS50](https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s40)](https://www.youtube.com/@cs50)
+[![Fireship](https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s40)](https://www.youtube.com/@Fireship)
+[![freeCodeCamp](https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s40)](https://www.youtube.com/@freecodecamp)
+[![Google Search Central](https://yt3.googleusercontent.com/ytc/AIdro_kNi1YP-cTH8YczYvWsYSPuEHInk-FEjsq7WbJIQ3KDBMg=s40)](https://www.youtube.com/@GoogleSearchCentral)
+[![MongoDB](https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s40)](https://www.youtube.com/@MongoDB)
+[![The Coding Train](https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s40)](https://www.youtube.com/@TheCodingTrain)
+[![WebDevSimplified](https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s40)](https://www.youtube.com/@WebDevSimplified)
+[![WesBos](https://yt3.googleusercontent.com/ZaIWJVIs2-XoPCTqQjbulMg9XVeXg0xU5DjnqmZsD7FGaRDywHpjWl9UfnIBVKDVDyOkdXvIzQ=s40)](https://www.youtube.com/@WesBos)
+[![Syntax FM](https://yt3.googleusercontent.com/85DOdKox2vjV-IN5a_gnqr4OHZZBmPvFKv9tS3nWA_V2UGIacZ2_nuTlYzsf82y5eN14QNBEAA=s40)](https://www.youtube.com/@syntaxfm)
 
-Happy coding! 🎨💻
-
----
+### Additional Resources
+- [The Odin Project](https://www.theodinproject.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [W3Schools](https://www.w3schools.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [CSS-Tricks](https://css-tricks.com/)
+- [Dev.to](https://dev.to/)
+- [Frontend Mentor](https://www.frontendmentor.io/)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
 <a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
