@@ -34,7 +34,7 @@ I work with a variety of tools and languages to bring my ideas to life:
 | 📊 Data Visualization | [![Leaflet](https://img.shields.io/badge/-Leaflet-28A745?logo=leaflet&logoColor=white)](https://leafletjs.com/) [![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white)](https://d3js.org/) [![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)](https://threejs.org/) [![Chart.js](https://img.shields.io/badge/-Chart.js-F1E05A?logo=chart.js&logoColor=white)](https://www.chartjs.org/) [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/) [![RxJS](https://img.shields.io/badge/-RxJS-0288D1?logo=rxjs&logoColor=white)](https://rxjs.dev/) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)](https://graphql.org/) [![Apollo](https://img.shields.io/badge/-Apollo-311C87?logo=apollo&logoColor=white)](https://www.apollographql.com/) |
 | 🗄 Content Management | [![Strapi](https://img.shields.io/badge/-Strapi-2F2D36?logo=strapi&logoColor=white)](https://strapi.io/) [![Sanity](https://img.shields.io/badge/-Sanity-FF6F00?logo=sanity&logoColor=white)](https://www.sanity.io/) [![Contentful](https://img.shields.io/badge/-Contentful-255F6B?logo=contentful&logoColor=white)](https://www.contentful.com/) [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/) [![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/) |
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44f/512.gif" alt="👏" width="32" height="32"> Certifications
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> Certifications
 
 <a href="https://www.hackerrank.com/certificates/45177807c639">
     <img src="https://img.shields.io/badge/JavaScript-HackerRank-lime?style=for-the-badge" alt="HackerRank JavaScript Certification">
@@ -63,7 +63,7 @@ Design is about solving problems and creating experiences that are both function
 | <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> | "Smile in the Mind"            | Beryl McAlhone and David Stuart | A collection of witty design ideas.               |
 | <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
 
-## Resources
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> Resources
 
 ### YouTube
 [![YouTube Channel](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s40)](https://www.youtube.com/@t3dotgg)
