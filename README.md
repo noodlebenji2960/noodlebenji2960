@@ -1,9 +1,5 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben! 
-___
-Change language to <a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a>
-___
-<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" ></br>I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. <a href="#-get-in-touch">Reach out.
-
+<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" ></br></br>Language: <a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a></br></br>I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. </br></br><a href="#-get-in-touch">Check out some of my work.</a> | <a href="#-get-in-touch">Get in contact.</a></br>
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
 - **Front-End Development:** Designing & implementing responsive web applications with HTML, CSS, JavaScript, React, and more.
