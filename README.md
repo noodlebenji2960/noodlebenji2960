@@ -1,7 +1,8 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben!
-
-<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" >
-<a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a></br>I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. <a href="#-get-in-touch">Reach out.
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="62" height="62"> Hello, I’m Ben! 
+___
+Change language to <a href="https://github.com/noodlebenji2960">English</a> | <a href="https://github.com/noodlebenji2960/noodlebenji2960/blob/main/README-es.md">Espańol</a>
+___
+<img src="https://raw.githubusercontent.com/noodlebenji2960/noodlebenji2960/refs/heads/main/1.jpg" width="100" height="100" ></br>I’m a fullstack web Developer passionate about creating intuitive and engaging user experiences. I blend design with development to build seamless interfaces that not only look great but just work. <a href="#-get-in-touch">Reach out.
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> What I Do
 - **UI Design:** High-fidelity mockups, responsive design, and crafting design systems.
@@ -41,15 +42,9 @@ I work with a variety of tools and languages to bring my ideas to life:
 Design is about solving problems and creating experiences that are both functional and delightful. I’m dedicated to a user-first approach, focusing on empathy and real-world solutions.
 
 ### Recommended Design Books
-- <img src="URL_TO_IMAGE_1" alt="Don’t Make Me Think" width="50" height="75"> **"Don’t Make Me Think" by Steve Krug**: A practical guide to web usability.
-- <img src="URL_TO_IMAGE_2" alt="The Design of Everyday Things" width="50" height="75"> **"The Design of Everyday Things" by Don Norman**: Insights on user-centered design.
-- <img src="URL_TO_IMAGE_3" alt="Hooked" width="50" height="75"> **"Hooked: How to Build Habit-Forming Products" by Nir Eyal**: A look into user behavior and product design.
-- <img src="URL_TO_IMAGE_4" alt="Sprint" width="50" height="75"> **"Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" by Jake Knapp**: A unique process for rapid prototyping.
-- <img src="URL_TO_IMAGE_5" alt="Designing Your Life" width="50" height="75"> **"Designing Your Life" by Bill Burnett and Dave Evans**: Applying design thinking to life and career.
-- <img src="URL_TO_IMAGE_6" alt="Smile in the Mind" width="50" height="75"> **"Smile in the Mind" by Beryl McAlhone and David Stuart**: A collection of witty design ideas.
-- <img src="URL_TO_IMAGE_7" alt="The End of Print" width="50" height="75"> **"The End of Print" by David Carson**: A seminal work on graphic design and typography.
-- <img src="URL_TO_IMAGE_8" alt="Grid Systems" width="50" height="75"> **"Grid Systems in Graphic Design" by Josef Müller-Brockmann**: A foundational book on grid design principles.
-- <img src="URL_TO_IMAGE_9" alt="Thinking with Type" width="50" height="75"> **"Thinking with Type" by Ellen Lupton**: An essential guide to typography in visual communication.
+- <img src="https://upload.wikimedia.org/wikipedia/en/1/10/Don%27t_Make_Me_Think.jpg" alt="Don’t Make Me Think" width="50" height="75"> **"Don’t Make Me Think" by Steve Krug**: A practical guide to web usability.
+- <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> **"Smile in the Mind" by Beryl McAlhone and David Stuart**: A collection of witty design ideas.
+- <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> **"The End of Print" by David Carson**: A seminal work on graphic design and typography.
 
 Happy coding! 🎨💻
 
