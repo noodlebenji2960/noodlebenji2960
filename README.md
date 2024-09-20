@@ -115,6 +115,8 @@ I work with a variety of tools and languages to bring my ideas to life:
 | <img src="https://upload.wikimedia.org/wikipedia/en/1/10/Don%27t_Make_Me_Think.jpg" alt="Don’t Make Me Think" width="50" height="75"> | "Don’t Make Me Think"          | Steve Krug                  | A practical guide to web usability.               |
 | <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgeeYvKt6L3D8-xLades2MS4JIWh_F92svOvAU6CrfPPtwC5I9" alt="Smile in the Mind" width="50" height="75"> | "Smile in the Mind"            | Beryl McAlhone and David Stuart | A collection of witty design ideas.               |
 | <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
+| <img src="https://m.media-amazon.com/images/I/81NNjU3Kh+L._SL1500_.jpg" alt="The Art of Looking Sideways" width="50" height="75"> | "The Art of Looking Sideways" | Alan Fletcher | A Thought-provoking exploration of perception, creativity, and the interplay between words and images. |
+| <img src="https://m.media-amazon.com/images/I/61M6jkfnddL._SL1500_.jpg" width="50" height="75"> | "Typographie: A Manual of Design" | Emil Ruder | a comprehensive guide to Swiss Style typography, celebrated for its use of grids, sans-serif fonts, and asymmetry in layout. |
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
 <a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
