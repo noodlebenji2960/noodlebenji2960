@@ -15,7 +15,7 @@ I’m a web developer mainly working with MERN tech stacks. I'm passionate about
 
 | Project | Image | Tech used |
 |---------|-------|-----------|
-| <a href="https://github.com/username/project1"><b>Project1</b><a/></br>A brief description of what this project1 does. | ![Project 1](https://via.placeholder.com/100) | | 
+| <a href="https://noodlebenji2960.github.io/Xampl-site/"><b>Xample</b><a/></br>Example layout using typescript, react, HTML, CSS. | ![Project 1](https://via.placeholder.com/100) | | 
 | <a href="https://github.com/username/project2"><b>Project2</b><a/></br>A brief description of what this project2 does. | ![Project 2](https://via.placeholder.com/100) | | 
 | <a href="https://github.com/username/project3"><b>Project3</b><a/></br>A brief description of what this project3 does. | ![Project 3](https://via.placeholder.com/100) | | 
 
@@ -62,7 +62,19 @@ I work with a variety of tools and languages to bring my ideas to life:
     <img src="https://img.shields.io/badge/MongoDB-Certification-green?style=for-the-badge" alt="MongoDB Certification">
 </a>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"> Resources
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
+<a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+</a>
+<a href="www.benjaminchick.com">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=for-the-badge" alt="Portfolio">
+</a>
+<a href="mailto:info@benjaminchick.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=for-the-badge" alt="Email">
+</a>
+
+
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32">Resources
 
 ### Learning Platforms
 1. [The Odin Project](https://www.theodinproject.com/) - Comprehensive curriculum for learning web development.
@@ -104,17 +116,39 @@ I work with a variety of tools and languages to bring my ideas to life:
 [![Watch React.js Documentary](https://img.youtube.com/vi/8pDqJVdNa44/0.jpg)](https://www.youtube.com/watch?v=8pDqJVdNa44)
 
 
-[![YouTube Channel](https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s40)](https://www.youtube.com/@t3dotgg)
-[![ChromeDevs](https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s40)](https://www.youtube.com/@ChromeDevs)
-[![CS50](https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s40)](https://www.youtube.com/@cs50)
-[![Fireship](https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s40)](https://www.youtube.com/@Fireship)
-[![freeCodeCamp](https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s40)](https://www.youtube.com/@freecodecamp)
-[![Google Search Central](https://yt3.googleusercontent.com/ytc/AIdro_kNi1YP-cTH8YczYvWsYSPuEHInk-FEjsq7WbJIQ3KDBMg=s40)](https://www.youtube.com/@GoogleSearchCentral)
-[![MongoDB](https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s40)](https://www.youtube.com/@MongoDB)
-[![The Coding Train](https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s40)](https://www.youtube.com/@TheCodingTrain)
-[![WebDevSimplified](https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s40)](https://www.youtube.com/@WebDevSimplified)
-[![WesBos](https://yt3.googleusercontent.com/ZaIWJVIs2-XoPCTqQjbulMg9XVeXg0xU5DjnqmZsD7FGaRDywHpjWl9UfnIBVKDVDyOkdXvIzQ=s40)](https://www.youtube.com/@WesBos)
-[![Syntax FM](https://yt3.googleusercontent.com/85DOdKox2vjV-IN5a_gnqr4OHZZBmPvFKv9tS3nWA_V2UGIacZ2_nuTlYzsf82y5eN14QNBEAA=s40)](https://www.youtube.com/@syntaxfm)
+<a href="https://www.youtube.com/@t3dotgg">
+    <img src="https://yt3.googleusercontent.com/4NapxEtLcHQ6wN2zA_DMmkOk47RFb_gy6sjSmUZGg_ARHjlIUjFsrNFddrcKMkTYpBNxCp3J=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@ChromeDevs">
+    <img src="https://yt3.googleusercontent.com/V8Qy9teRPjYLGsqnfGwuDYWQXOddP3Wt4y3opilh1wVyaRYyPo4ib8M73TC2lpA37epo6r6gGx4=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@cs50">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@Fireship">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@freecodecamp">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@GoogleSearchCentral">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_kNi1YP-cTH8YczYvWsYSPuEHInk-FEjsq7WbJIQ3KDBMg=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@MongoDB">
+    <img src="https://yt3.googleusercontent.com/94s5L5iEC6TInISXIFzVaVCaFgL62lEmSz3c9p2AHnjv7kmNAOXdWrgyndV-jttIC31K7AWWJw=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@TheCodingTrain">
+    <img src="https://yt3.googleusercontent.com/99wepc_FTSN0n_GbR-FlFANyxed7TsbE8WxKIDWftdxssZlYo1-gW1CRD7cPgOzThMM8m4W8=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@WebDevSimplified">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@WesBos">
+    <img src="https://yt3.googleusercontent.com/ZaIWJVIs2-XoPCTqQjbulMg9XVeXg0xU5DjnqmZsD7FGaRDywHpjWl9UfnIBVKDVDyOkdXvIzQ=s40" height="60">
+</a>
+<a href="https://www.youtube.com/@syntaxfm">
+    <img src="https://yt3.googleusercontent.com/85DOdKox2vjV-IN5a_gnqr4OHZZBmPvFKv9tS3nWA_V2UGIacZ2_nuTlYzsf82y5eN14QNBEAA=s40" height="60">
+</a>
 
 ### Recommended Reading
 | Cover Image                                                                 | Title                           | Author                       | Description                                       |
@@ -124,14 +158,3 @@ I work with a variety of tools and languages to bring my ideas to life:
 | <img src="https://m.media-amazon.com/images/I/61ZSacq8KXS._SL1060_.jpg" alt="The End of Print" width="50" height="75"> | "The End of Print"             | David Carson                 | A seminal work on graphic design and typography.  |
 | <img src="https://m.media-amazon.com/images/I/81NNjU3Kh+L._SL1500_.jpg" alt="The Art of Looking Sideways" width="50" height="75"> | "The Art of Looking Sideways" | Alan Fletcher | A Thought-provoking exploration of perception, creativity, and the interplay between words and images. |
 | <img src="https://m.media-amazon.com/images/I/61M6jkfnddL._SL1500_.jpg" width="50" height="75"> | "Typographie: A Manual of Design" | Emil Ruder | a comprehensive guide to Swiss Style typography, celebrated for its use of grids, sans-serif fonts, and asymmetry in layout. |
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32"> Get in Touch
-<a href="https://www.linkedin.com/in/benjamin-chick-87b348302/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
-</a>
-<a href="www.benjaminchick.com">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?logo=portfolio&style=for-the-badge" alt="Portfolio">
-</a>
-<a href="mailto:info@benjaminchick.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?logo=gmail&style=for-the-badge" alt="Email">
-</a>
