@@ -37,6 +37,12 @@ I work with a variety of tools and languages to bring my ideas to life:
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> Certifications
 
+<a href="https://www.youruniversitywebsite.com">
+    <img src="https://img.shields.io/badge/Graphic%20Communication-Norwich University of Arts-blue?style=for-the-badge" alt="Graphic Communication">
+</a>
+<a href="https://www.yourbtecwebsite.com">
+    <img src="https://img.shields.io/badge/Interactive%20Media-West Suffolk college-red?style=for-the-badge" alt="Interactive Media">
+</a>
 <a href="https://www.hackerrank.com/certificates/45177807c639">
     <img src="https://img.shields.io/badge/JavaScript-HackerRank-lime?style=for-the-badge" alt="HackerRank JavaScript Certification">
 </a>
