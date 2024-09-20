@@ -15,7 +15,7 @@ I’m a web developer mainly working with MERN tech stacks. I'm passionate about
 
 | Project | Image | Tech used |
 |---------|-------|-----------|
-| <a href="https://noodlebenji2960.github.io/Xampl-site/"><b>Xample</b><a/></br>Example layout using typescript, react, HTML, CSS. | ![Project 1](https://via.placeholder.com/100) | | 
+| <a href="https://noodlebenji2960.github.io/Xampl-site/"><b>Xample</b><a/></br>Example layout using typescript, react, HTML, CSS. | ![Xample](./Screenshot%20from%202024-09-20%2021-15-21.png) | | 
 | <a href="https://github.com/username/project2"><b>Project2</b><a/></br>A brief description of what this project2 does. | ![Project 2](https://via.placeholder.com/100) | | 
 | <a href="https://github.com/username/project3"><b>Project3</b><a/></br>A brief description of what this project3 does. | ![Project 3](https://via.placeholder.com/100) | | 
 
