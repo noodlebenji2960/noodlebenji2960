@@ -97,7 +97,7 @@ I work with a variety of tools and languages to bring my ideas to life:
 3. [CSS-Tricks Newsletter](https://css-tricks.com/newsletter/) - Regular updates from the CSS-Tricks community.
 
 ### Recommended to Watch
-[![Watch Helvetica Documentary](https://img.youtube.com/vi/wkoX0pEwSCw/0.jpg)](https://www.youtube.com/watch?v=wkoX0pEwSCw)
+[![Watch Helvetica Documentary](https://img.youtube.com/vi/wkoX0pEwSCw/0.jpg)](https://www.youtube.com/watch?v=wkoX0pEwSCw&t=1s)
 [![Watch Abstract: The Art of Design](https://img.youtube.com/vi/DYaq2sWTWAA/0.jpg)](https://www.youtube.com/watch?v=DYaq2sWTWAA&t=40s)
 [![Watch Objectified Documentary](https://img.youtube.com/vi/1dKJZfjHJJs/0.jpg)](https://www.youtube.com/watch?v=1dKJZfjHJJs)
 [![Watch Node.js Documentary](https://img.youtube.com/vi/SfWPqr04srM/0.jpg)](https://www.youtube.com/watch?v=SfWPqr04srM)
